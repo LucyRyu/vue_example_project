@@ -12,6 +12,6 @@
   "author": "lucy",
   "license": "ISC",
   "dependencies": {
-    "nuxt": "^1.4.1"
+    "nuxt": "^3.0.0"
   }
 }
